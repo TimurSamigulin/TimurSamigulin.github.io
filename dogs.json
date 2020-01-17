@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Хаски",
+      "description": "Заводская специализированная порода собак, выведенная чукчами северо-восточной части Сибири и зарегистрированная американскими кинологами в 1930-х годах как ездовая собака, полученная от аборигенных собак Дальнего Востока России",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Siberian-husky.jpg/411px-Siberian-husky.jpg"
+    },
+    {
+      "name": "Лабрадор",
+      "description": "Первоначально была выведена в качестве охотничьей подружейной собаки",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Argos_with_duck.jpg/411px-Argos_with_duck.jpg"
+    },
+    {
+      "name": "Мопс",
+      "description": "Мопсы были привезены из Китая в Европу в XVI веке и были популярны в Западной Европе",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pug_in_Tallinn.JPG/411px-Pug_in_Tallinn.JPG"
+    }
+]
