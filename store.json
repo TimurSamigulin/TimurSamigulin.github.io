@@ -3,42 +3,56 @@
       "title": "Пятерочка",
       "description": "российская сеть продовольственных магазинов «у дома», которой управляет X5 Retail Group.",
       "icon": "data:image/png;base64,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",
-      "apiHref": "five.json"	  
+      "x": 56.45552266,
+	  "y": 84.96634555,
+	  "apiHref": "five.json"	  
     },
     {
       "title": "Ярче",
       "description": "Супермаркеты шаговой доступности,. где по выгодным ценам всегда можно купить. свежие продукты на завтрак, обед и ужин!",
 	  "icon": "https://ярче.рф/static/yarche/v2/images/logo.png",
+	  "x": 56.45633369,
+	  "y": 84.98004198,
       "apiHref": "yarche.json"	
     },
     {
       "title": "Лента",
       "description": "Продажа продуктов питания, косметики, моющих средств, одежды, обуви, канцтоваров и пр.",
 	  "icon": "https://cdn.forbes.ru/files/presets/900_566/profile/lenta.jpg__1506595090__52395__vid573235e.jpg",
+	  "x": 56.45633369,
+	  "y": 84.98004198,
       "apiHref": "lenta.json"	
     },
 	{
       "title": "Абрикос",
       "description": "Продажа продуктов питания, косметики, моющих средств, одежды, обуви, канцтоваров и пр.",
 	  "icon": "https://cdn1.flamp.ru/f2d4fd3f6b67181017427832aed5cad7.jpg",
+	  "x": 56.46216803,
+	  "y": 84.96620178,
       "apiHref": "abrikos.json"	
     },
     {
       "title": "Фуд сити",
       "description": "Продажа продуктов питания, косметики, моющих средств, одежды, обуви, канцтоваров и пр.",
 	  "icon": "https://sun9-46.userapi.com/c629212/v629212574/1a1a3/8zlbKvwO1z4.jpg?ava=1",
+	  "x": 56.45633369,
+	  "y": 84.96598292,
       "apiHref": "fudcity.json"	
     },
 	{
       "title": "Spar",
       "description": "Продажа продуктов питания, косметики, моющих средств, одежды, обуви, канцтоваров и пр.",
 	  "icon": "https://cdn1.flamp.ru/2feeed4d58716198ec67fb2e27533d4b_1920.png",
+	  "x": 56.48855304,
+	  "y": 84.97852707,
       "apiHref": "spar.json"	
     },
 	{
       "title": "Мария Ра",
       "description": "Продажа продуктов питания, косметики, моющих средств, одежды, обуви, канцтоваров и пр.",
 	  "icon": "https://sun9-48.userapi.com/b3Iy0w--Xdqtcq-L5v-ctWtPU5gJNEAQaMjMEA/Uu_hVHG5kak.jpg?ava=1",
+	  "x": 56.45633369,
+	  "y": 84.98004198,
       "apiHref": "lenta.json"	
     }
 ]
