@@ -1,0 +1,74 @@
+[
+    {
+      "title": "Сыр GRUNTALER",
+      "description": "Сыр GRUNTALER с томатом и базиликом 50% вес без змж (Россия). Продукты Молочные продукты Сыр",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/74800115.jpg",
+      "price": 810,
+	  "discount": 26,
+	  "discountPrice": 599
+    },
+    {
+      "title": "Сыр ПРЕДГОРЬЕ КАВКАЗА",
+      "description": "Сыр ПРЕДГОРЬЕ КАВКАЗА Адыгейский Легкий 30% без змж (Россия) 300г. Продукты Молочные продукты Сыр",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/c0ed04cc.jpg",
+      "price": 210,
+	  "discount": 24,
+	  "discountPrice": 159
+    },
+    {
+      "title": "Колбаса CASADEMONT",
+      "description": "Колбаса CASADEMONT Фуэт Экстра с/в з/а (Россия) 150г",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/30f49540.jpg",
+      "price": 315,
+	  "discount": 43,
+	  "discountPrice": 179
+    },
+    {
+      "title": "Колбаса СК ТОМСКИЙ Сервелат",
+      "description": "Колбаса СК ТОМСКИЙ Сервелат Юбилейный в/к в/у (Россия) 500г",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/d7107f1a.jpg",
+      "price": 296,
+	  "discount": 32,
+	  "discountPrice": 200
+    },
+    {
+      "title": "Д/п консервы БАБУШКИНО ЛУКОШКО",
+      "description": "Д/п консервы БАБУШКИНО ЛУКОШКО фрикадельки из говядины в бульоне с 8 мес ст/б (Россия) 100г",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/c0ed04cc.jpg",
+      "price": 88,
+	  "discount": 25,
+	  "discountPrice": 66
+    },
+    {
+      "title": "М/к свинина ЛЕНТА",
+      "description": "М/к свинина ЛЕНТА тушеная Выбор экспертов (Беларусь) 338г",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/1131d13a.jpg",
+      "price": 225,
+	  "discount": 34,
+	  "discountPrice": 150
+    },
+	{
+      "title": "Чай зеленый SAITO Fujian Green",
+      "description": "Чай зеленый SAITO Fujian Green к/уп (Россия) 25пак",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/5251d9b7.jpg",
+      "price": 115,
+	  "discount": 31,
+	  "discountPrice": 80
+    },
+	{
+      "title": "Кофе зерновой ЖОКЕЙ",
+      "description": "Кофе зерновой ЖОКЕЙ По-восточному жар в/с (Россия) 250г",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/918aa790.jpg",
+      "price": 210,
+	  "discount": 43,
+	  "discountPrice": 119
+    },
+	{
+      "title": "Котлеты куриные ТРОЕКУРОВО",
+      "description": "Котлеты куриные ТРОЕКУРОВО Филейные охл. подложка (Россия) 450г",
+	  "icon": "https://leonardo.edadeal.io/dyn/re/items/12/orig/c0ed04cc.jpg",
+      "price": 147,
+	  "discount": 26,
+	  "discountPrice": 109
+    }
+]
